@@ -7,7 +7,8 @@
     "start": "node src/app.js",
     "test": "jest --watchAll"
   },
-  "keywords": [],
+  "keywords": [
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
